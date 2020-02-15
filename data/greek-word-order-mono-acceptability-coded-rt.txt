@@ -1,4 +1,4 @@
-﻿Participant ID;TypeOfQuestion;TypeOfStimuli;ResponseAcceptabilityJudgement scale;RT
+﻿ParticipantID;TypeOfQuestion;TypeOfStimuli;ResponseAcceptabilityJudgement scale;RT
 00e0b159cf5b9abcc73b92506d8b1c38;AcceptabilityJudgement;Size-Nationality;Correct;1591
 00e0b159cf5b9abcc73b92506d8b1c38;AcceptabilityJudgement;Size-Nationality;Correct;5504
 00e0b159cf5b9abcc73b92506d8b1c38;AcceptabilityJudgement;Size-Nationality;Correct;1333
