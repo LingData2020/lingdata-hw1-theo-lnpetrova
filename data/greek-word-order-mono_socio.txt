@@ -83,7 +83,7 @@ ParticipantID;TypeOfQuestion;QuestionCategory;Responce
 853a6abae4c2f81889073dbf90c5c57b;Form;education;UniversityDegree;
 853a6abae4c2f81889073dbf90c5c57b;Form;handedness;right;
 853a6abae4c2f81889073dbf90c5c57b;Form;sex;female;
-944d59c9102fd8ce1d8172f9f4f784c1;Form;age;21 χρόνων;
+944d59c9102fd8ce1d8172f9f4f784c1;Form;age;21;
 944d59c9102fd8ce1d8172f9f4f784c1;Form;country1;Limassol,Cyprus;
 944d59c9102fd8ce1d8172f9f4f784c1;Form;country2;Limassol,Cyprus;
 944d59c9102fd8ce1d8172f9f4f784c1;Form;education;College;
